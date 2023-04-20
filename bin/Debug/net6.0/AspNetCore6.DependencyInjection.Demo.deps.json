@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AspNetCore6.DependencyInjection.Demo/1.0.0": {
+        "runtime": {
+          "AspNetCore6.DependencyInjection.Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCore6.DependencyInjection.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AaLhD5fI0lyaFZuv2wcl+K7n8SA3p8kTpFNciLTUk+I=",
+  "Source": "AspNetCore6.DependencyInjection.Demo",
+  "BasePath": "_content/AspNetCore6.DependencyInjection.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
